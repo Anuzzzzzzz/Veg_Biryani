@@ -3,11 +3,27 @@ Obstacle Detection and Dynamic Path Planning for Autonomous Off Road Navigation
 
 **#Heatmap bumpy stitched.mp4**
 
-We stitched together around 180 images to get a heatmap of our bumpy road simulation. The composes video shows the bumpiness the vehicle encounters. The orange denotes rough terrain, blue is the sky
+We stitched together around 180 images to get a heatmap of our bumpy road simulation. The composed video shows the bumpiness the vehicle encounters. The orange denotes rough terrain, blue is the sky
 
 **#Dashcam bumpy.mp4**
 
 Video from the MAVS simulator showing a bumpy terrain
+
+**#Heatmap forest stitched.mp4**
+
+We stitched together images to get a heatmap of our forest environment simulation. The composed video shows the various obstacles' the vehicle encounters. The orange denotes rough terrain, blue is the sky, light green is heavy vegetation, dark green is light vegetation and yellow is the smoother terrain
+
+**#Dashcam forest.mp4**
+
+Video from the MAVS simulator showing a forest environment
+
+**#Heatmap city stitched.mp4**
+
+We stitched together images to get a heatmap of our city environment simulation. The composed video shows a relatively dark scene implying that the roads are well defined and hence no obstacles are detected
+
+**#Dashcam city.mp4**
+
+Video from the MAVS simulator showing a city environment
 
 **#00719_top_lidar.pts**
 
