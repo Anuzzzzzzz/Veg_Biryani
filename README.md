@@ -39,4 +39,6 @@ So we tried to pre process the heat map image and get the program to detect the 
 
 ![WhatsApp Image 2024-04-20 at 07 10 31](https://github.com/Anuzzzzzzz/Veg_Biryani/assets/148976244/c348450c-416b-4e7f-95b4-c4d0882206d9)
 
+![WhatsApp Image 2024-04-20 at 08 20 35](https://github.com/Anuzzzzzzz/Veg_Biryani/assets/148976244/bff02b57-fbeb-4507-8360-3aab54d3e446)
+
 
