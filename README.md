@@ -5,7 +5,7 @@ Obstacle Detection and Dynamic Path Planning for Autonomous Off Road Navigation
 
 We stitched together around 180 images to get a heatmap of our bumpy road simulation. The composes video shows the bumpiness the vehicle encounters. The orange denotes rough terrain, blue is the sky
 
-**#Simulator video.mp4**
+**#Dashcam bumpy.mp4**
 
 Video from the MAVS simulator showing a bumpy terrain
 
